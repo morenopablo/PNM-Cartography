@@ -1,0 +1,12 @@
+# ninja log v5
+1	703	7114065496241111	build.ninja	b2d862b583124c5a
+35	1281	7114928703106890	CMakeFiles/Cartography.dir/feature.cpp.obj	350abff0f60dcf5e
+35	1251	7114090151788179	CMakeFiles/Cartography.dir/button.cpp.obj	11b4f98f8f9f2586
+3	1276	7115853856746093	CMakeFiles/Cartography.dir/main.cpp.obj	fa53477dce77edff
+1276	2098	7115853864462534	Cartography.exe	46cbfe64da81550
+2	2935	7120853844817147	CMakeFiles/Cartography.dir/main.cpp.obj	fa53477dce77edff
+2936	4927	7120853864170092	Cartography.exe	46cbfe64da81550
+4	3976	7122592850650439	CMakeFiles/Cartography.dir/main.cpp.obj	fa53477dce77edff
+3976	8090	7122592890968730	Cartography.exe	46cbfe64da81550
+5	4665	7139085762758690	CMakeFiles/Cartography.dir/main.cpp.obj	fa53477dce77edff
+4665	7179	7139085787518687	Cartography.exe	46cbfe64da81550
